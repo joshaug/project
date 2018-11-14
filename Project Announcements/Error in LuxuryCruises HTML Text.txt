@@ -1,0 +1,9 @@
+The list of cruises in the LuxuryCruises.html document is incorrect.  
+A new version of the html document is in this directory.
+
+The replacement list (already included in the html document) is as follows:
+Alaska to Vancouver Cruise								Prices from EURO 3250pp
+Miami to Western Caribbean Cruise						Prices from EURO 2355pp 
+Miami to Eastern Caribbean Cruise						Prices from EURO 1675pp
+New York to Eastern Caribbean Cruise					Prices from EURO 1499pp 
+Orlando to Western Caribbean Cruise						Prices from EURO 1285pp 
